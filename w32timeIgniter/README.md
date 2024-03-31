@@ -13,7 +13,7 @@ W32Time Service の
 デバイス(マシン)スコープでの配信動作を確認しています。<br>
 本番環境で使用する場合は必ず検証を行って下さい。
 
-## intunewinとして配信する
+## intunewin に変換してアプリとして配信する
 
 アプリとして配信することで検出ルールが設定できるため、特定の設定が変更された際にスクリプトを再実行することができます。
 https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool<br>
