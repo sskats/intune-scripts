@@ -16,6 +16,8 @@ W32Time Service の
 ## intunewinとして配信する
 
 アプリとして配信することで検出ルールが設定できるため、特定の設定が変更された際にスクリプトを再実行することができます。
+https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool<br>
+https://learn.microsoft.com/en-us/mem/intune/apps/apps-win32-prepare
 
 ### インストールコマンド
 
